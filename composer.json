@@ -8,6 +8,13 @@
             "Millooo94\\Contact\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Millooo94\\Contact\\ContactServiceProvider"
+            ]
+        }
+    },
     "authors": [
         {
             "name": "millooo94",
